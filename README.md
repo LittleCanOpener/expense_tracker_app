@@ -1,12 +1,17 @@
 # Dice Roller - Dart & Flutter Project
 <h2>Previews</h2>
   <details>
-      <summary>Placeholder <small><strong>(Click me)</strong></small></summary>
-      <img src=""><br>
+      <summary>Main Screen <small><strong>(Click me)</strong></small></summary>
+      <img src="assets/images/preview.png"><br>
   </details>
   <details>
-      <summary>Placeholder <small><strong>(Click me)</strong></small></summary>
-      <img src=""><br>
+      <summary>Adding Expenses <small><strong>(Click me)</strong></small></summary>
+      <img src="assets/images/previewp2.png"><br>
+      <img src="assets/images/previewp4.png"><br>
+  </details>
+   <details>
+      <summary>Delete Expense <small><strong>(Click me)</strong></small></summary>
+      <img src="assets/images/previewp3.png"><br>
   </details>
 <h1>Technologies</h1>
 <ol>
